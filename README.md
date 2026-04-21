@@ -1,57 +1,63 @@
-# Portfolio
-
 # Freddy Wang – Data Science Portfolio
 
-Welcome to my data science portfolio! 
+Welcome! I'm a data science-focused Biology student interested in applying data-driven methods to real-world problems, particularly in healthcare and scientific research.
 
-## Skills
-- Python (pandas, NumPy, matplotlib, seaborn)
-- Machine Learning (scikit-learn, linear regression, random forest, lasso regression)
-- Data Visualization
-- SQL 
+This portfolio showcases projects involving data analysis, machine learning, and visualization.
 
-## Projects
+---
+
+## 🛠 Skills
+
+- **Programming:** Python (pandas, NumPy), SQL  
+- **Data Visualization:** matplotlib, seaborn  
+- **Machine Learning:** scikit-learn (linear regression, random forest, lasso)  
+- **Tools:** Jupyter Notebook, Git, Streamlit/Tableau  
+
+---
+
+## 📊 Projects
 
 ### 1. Wine Quality Analysis
-- Explored relationships between chemical features and wine quality
-- Used pandas, seaborn, and matplotlib
-- [View Project](LINK_HERE)
+**Goal:** Identify which chemical properties most influence wine quality.
+
+- Performed exploratory data analysis on UCI Wine Dataset
+- Built regression models to analyze feature importance
+- Visualized relationships between alcohol, acidity, and quality
+
+**Key Result:**
+- Alcohol showed the strongest positive correlation with quality
+- Acidity had a measurable negative relationship with ratings
+
+👉 [View Project](LINK_HERE)
+
+---
 
 ### 2. Disease Prediction Model
-- Built classification model using scikit-learn
-- Evaluated accuracy, precision, recall
-- [View Project](LINK_HERE)
+**Goal:** Predict disease presence using clinical data.
+
+- Built classification models using scikit-learn
+- Evaluated performance using accuracy, precision, recall
+- Compared multiple models to identify best performer
+
+**Key Result:**
+- Achieved improved prediction performance using ensemble methods
+
+👉 [View Project](LINK_HERE)
+
+---
 
 ### 3. Environmental Data Dashboard
-- Interactive visualization of environmental trends
-- Built with Streamlit / Tableau
-- [View Project](LINK_HERE)
+**Goal:** Visualize environmental trends interactively.
 
-## Contact
+- Built dashboard using Streamlit / Tableau
+- Enabled real-time exploration of environmental metrics
+- Designed for intuitive user interaction
+
+👉 [View Project](LINK_HERE)
+
+---
+
+## 📫 Contact
+
 - LinkedIn: (your link)
 - Email: freddy.j.wang@gmail.com
-
-
-
-# Wine Quality Analysis
-
-## Overview
-This project explores the relationship between chemical properties and wine quality.
-
-## Dataset
-- Source: UCI Wine Dataset
-- Features include acidity, sugar, pH, alcohol
-
-## Tools Used
-- Python
-- pandas
-- matplotlib
-- seaborn
-
-## Key Findings
-- Alcohol content strongly correlates with quality
-- Higher acidity wines tend to have lower ratings
-
-## How to Run
-1. Open the notebook
-2. Run all cells
