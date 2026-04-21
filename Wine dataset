@@ -1,11 +1,11 @@
 # Wine Quality Analysis
 
-## 📌 Overview
+## Overview
 This project investigates how chemical properties influence wine quality using statistical analysis and visualization techniques. The goal is to identify key variables that can help predict wine ratings and improve production insights.
 
 ---
 
-## 📊 Dataset
+## Dataset
 - Source: UCI Wine Quality Dataset
 - Features:
   - Acidity
@@ -16,7 +16,7 @@ This project investigates how chemical properties influence wine quality using s
 
 ---
 
-## 🛠 Methods
+## Methods
 
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
@@ -25,7 +25,7 @@ This project investigates how chemical properties influence wine quality using s
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 - **Alcohol content** showed the strongest positive correlation with wine quality
 - **Higher acidity** was associated with lower quality ratings
@@ -33,7 +33,7 @@ This project investigates how chemical properties influence wine quality using s
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 *(Add screenshots here if possible)*
 - Correlation heatmap
 - Scatter plots (alcohol vs quality)
@@ -41,7 +41,7 @@ This project investigates how chemical properties influence wine quality using s
 
 ---
 
-## 🧠 Takeaways
+## Takeaways
 
 - Chemical composition plays a measurable role in wine quality
 - Alcohol content is a strong predictor and could be used in quality optimization
@@ -49,7 +49,7 @@ This project investigates how chemical properties influence wine quality using s
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository  
 2. Open the Jupyter Notebook  
@@ -57,7 +57,7 @@ This project investigates how chemical properties influence wine quality using s
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add machine learning models (Random Forest, XGBoost)
 - Improve prediction accuracy
