@@ -1,6 +1,14 @@
 # Freddy Wang – Data Science Portfolio
 
-Welcome! I'm a data science-focused Biology student interested in applying data-driven methods to real-world problems, particularly in healthcare and scientific research.
+I am a data science student focused on predictive modeling and machine learning.
+
+My work centers on:
+- Building predictive models using real-world datasets
+- Applying machine learning techniques such as Random Forests and regression
+- Analyzing data to uncover actionable insights
+
+
+I am particularly interested in applying data science to healthcare and algorithmic problems.
 
 This portfolio showcases projects involving data analysis, machine learning, and visualization.
 
@@ -8,10 +16,10 @@ This portfolio showcases projects involving data analysis, machine learning, and
 
 ## 🛠 Skills
 
-- **Programming:** Python (pandas, NumPy, matlib), SQL, R, Java, C#
+- **Programming:** Python (pandas, NumPy, matlib, scikit-learn), SQL, R, Java, C#
 - **Data Visualization:** matplotlib, seaborn  
 - **Machine Learning:** scikit-learn (linear regression, random forest, lasso)  
-- **Tools:** Jupyter Notebook, Git, Streamlit/Tableau  
+- **Tools:** Jupyter Notebook, Git, Streamlit/Tableau, R Studio, Visual Studio  
 
 ---
 
@@ -30,6 +38,78 @@ This portfolio showcases projects involving data analysis, machine learning, and
 
 👉 [View Project](LINK_HERE)
 
+# Predictive Modeling of Different Wine Acidities with NumPy-Based Dataset
+
+## 📌 Overview
+This project focuses on building machine learning models using structured datasets stored in NumPy (.npz) format. The goal is to preprocess the data, apply predictive models, and evaluate performance using standard metrics.
+
+---
+
+## 📊 Dataset
+- Format: NumPy compressed file (.npz)
+- Loaded using NumPy for efficient data handling
+- Contains structured numerical features for predictive modeling
+
+### Preprocessing:
+- Converted raw NumPy arrays into usable datasets
+- Performed data cleaning and organization
+- Split data into training and testing sets
+
+---
+
+## 🛠 Methods
+
+### Data Processing
+- Loaded and manipulated datasets using NumPy
+- Used pandas for structured analysis
+- Applied feature selection and transformation
+
+### Machine Learning Models
+- Implemented models using scikit-learn:
+  - Linear Regression
+  - Random Forest
+- Compared model performance across methods
+
+---
+
+## 📈 Results
+- Random Forest model produced stronger predictive performance compared to linear models
+- Model accuracy improved after preprocessing and feature selection
+- Identified patterns in feature importance
+
+---
+
+## 🧠 Key Takeaways
+- NumPy-based datasets allow efficient handling of structured data
+- Feature engineering plays a key role in model performance
+- Ensemble methods provide stronger predictive capabilities
+
+---
+
+## 🚀 Future Improvements
+- Hyperparameter tuning using GridSearchCV
+- Experiment with additional models (XGBoost, Neural Networks)
+- Expand dataset for better generalization
+
+---
+
+## ▶️ How to Run
+
+1. Open the Jupyter Notebook
+2. Ensure required libraries are installed:
+   - numpy
+   - pandas
+   - scikit-learn
+3. Run all cells
+
+---
+
+## 📁 Files
+- `Lesson05.ipynb` – Data preprocessing  
+- `Lesson08.ipynb` – Model development  
+- `Lesson13.ipynb` – Advanced analysis  
+- `file3.npz` – Dataset  
+
 ---
 
 ### 2. Disease Prediction Model
@@ -46,16 +126,6 @@ This portfolio showcases projects involving data analysis, machine learning, and
 
 ---
 
-### 3. Environmental Data Dashboard
-**Goal:** Visualize environmental trends interactively.
-
-- Built dashboard using Streamlit / Tableau
-- Enabled real-time exploration of environmental metrics
-- Designed for intuitive user interaction
-
-👉 [View Project](LINK_HERE)
-
----
 
 ## 📫 Contact
 
