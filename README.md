@@ -8,7 +8,7 @@ This portfolio showcases projects involving data analysis, machine learning, and
 
 ## 🛠 Skills
 
-- **Programming:** Python (pandas, NumPy), SQL  
+- **Programming:** Python (pandas, NumPy, matlib), SQL, R, Java, C#
 - **Data Visualization:** matplotlib, seaborn  
 - **Machine Learning:** scikit-learn (linear regression, random forest, lasso)  
 - **Tools:** Jupyter Notebook, Git, Streamlit/Tableau  
