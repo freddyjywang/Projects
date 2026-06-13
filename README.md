@@ -40,12 +40,12 @@ This portfolio showcases projects involving data analysis, machine learning, and
 
 # Predictive Modeling of Different Wine Acidities with NumPy-Based Dataset
 
-## 📌 Overview
+## Overview
 This project focuses on building machine learning models using structured datasets stored in NumPy (.npz) format. The goal is to preprocess the data, apply predictive models, and evaluate performance using standard metrics.
 
 ---
 
-## 📊 Dataset
+## Dataset
 - Format: NumPy compressed file (.npz)
 - Loaded using NumPy for efficient data handling
 - Contains structured numerical features for predictive modeling
@@ -72,28 +72,28 @@ This project focuses on building machine learning models using structured datase
 
 ---
 
-## 📈 Results
+## Results
 - Random Forest model produced stronger predictive performance compared to linear models
 - Model accuracy improved after preprocessing and feature selection
 - Identified patterns in feature importance
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 - NumPy-based datasets allow efficient handling of structured data
 - Feature engineering plays a key role in model performance
 - Ensemble methods provide stronger predictive capabilities
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Hyperparameter tuning using GridSearchCV
 - Experiment with additional models (XGBoost, Neural Networks)
 - Expand dataset for better generalization
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Open the Jupyter Notebook
 2. Ensure required libraries are installed:
